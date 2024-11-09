@@ -1,0 +1,17 @@
+{
+    "name": "Mas' Akhkam Portfolio",
+    "short_name": "Portfolio",
+    "description": "Mas' Akhkam - Portfolio Website",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0e2954",
+    "icons": [
+      {
+        "src": "/tab-logo/2.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
