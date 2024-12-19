@@ -92,7 +92,7 @@ function App() {
   return (
     <div>
       <Routes />
-      <h1>React Portfolio with IndexedDB & Push Notifications</h1>
+      <h1></h1>
     </div>
   );
 }
