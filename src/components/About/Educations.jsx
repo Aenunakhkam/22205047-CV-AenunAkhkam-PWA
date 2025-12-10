@@ -118,12 +118,12 @@ export default function Educations() {
                 variant="caption"
                 sx={{ color: colorTheme.primaryText }}
               >
-                STMIK YMI Tegal{' '}
+                Universitas Harkat Negeri{' '}
               </Typography>
             </StepLabel>
             <StepContent>
               <p className="text-lg">
-                Masuk di tahun 2022 prodi Teknik Informatika 
+                Masuk di tahun 2022 Prodi Teknik Informatika 
               </p>
               <Box sx={{ mb: 2 }}>
                 <div>
